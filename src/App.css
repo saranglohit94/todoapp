@@ -1,19 +1,4 @@
-/* .todoItem {
-  display: flex;
- justify-content: center;
- align-items: center;
-  margin-bottom: 5px;
- }
- .todoItem p {
-  color: #d22121;
 
- }
- .todoList{
-  display: inline-block;
-  text-align: center;
-  align-items: center;
-  margin: 50px;
- } */
  .App {
   font-family: Arial, sans-serif;
   text-align: center;
